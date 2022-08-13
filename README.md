@@ -1,4 +1,4 @@
-- 🇧🇷 Nicolas, 20, Brazil.
+- 🇧🇷 Nicolas, 21, Brazil.
 - 👀 Arduino, Game Development, Backend in general
 - 🌎 Looking to collaborate on IoT, and general automation. 
 - 🎮 Valorant in free time. #BR1 server
