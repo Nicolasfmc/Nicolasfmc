@@ -1,3 +1,3 @@
-- 🇧🇷 Nicolas, 21, Brazil.
-- 👀 Arduino, Game Development, Backend in general
+- 👤 Nicolas, 21, Brazil.
+- 📚 C++, C#, ReactJS, React Native, NestJS, Typescript
 - 🌎 Looking to collaborate on IoT, and general automation.
