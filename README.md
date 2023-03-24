@@ -1,3 +1,3 @@
-- 👤 Nicolas, 21, Brazil.
-- 📚 C++, C#, ReactJS, React Native, NestJS, Typescript
-- 🌎 Brazilian-Portuguese (native), English (intermediate), Japanese (N5).
+* 👤 Nicolas, 21, Brazil.
+* 📚 React, React Native, NestJS, Typescript & JavaScript
+* 🌎 Brazilian-Portuguese (native), English (intermediate), Japanese (N5).
