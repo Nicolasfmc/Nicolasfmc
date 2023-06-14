@@ -1,5 +1,5 @@
 
-  * 👤 Nicolas, 21, Brazil.<br/>
+  * 👤 Nicolas, 22, Brazil.<br/>
   * 📚 React, React Native, NodeJS, Typescript & JavaScript<br/>
   * 🌎 PTBR, English
   
