@@ -25,3 +25,4 @@ I'm Nicolas, a software engineer still in development/pursuing a degree in Compu
 
 # 📊 Stats
   [![Top Langs](https://github-readme-stats-phi-five-55.vercel.app/api/top-langs/?username=Nicolasfmc&count_private=true&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasfmc&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
