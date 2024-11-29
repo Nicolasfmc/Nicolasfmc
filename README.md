@@ -1,5 +1,5 @@
 # 👋 Hello There
-I'm Nicolas, a software engineer still in development/pursuing a degree in Computer Science. Currently working as a full-stack developer at @Grazziotin S/A.<br/> I'm a native Portuguese speaker and have intermediate proficiency in English.
+Hi, I'm Nicolas! I'm exploring the exciting fields of Machine Learning, Large Language Models (LLMs), and Artificial Intelligence. Currently pursuing a degree in Computer Science and applying my knowledge to create impactful projects. I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technology to solve real-world problems.<br/> I'm a native Portuguese speaker with intermediate English proficiency.
 
 # 🎯 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
