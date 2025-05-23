@@ -11,7 +11,7 @@ I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technolog
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/whisper-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Fullstack & Backend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
