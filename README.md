@@ -1,7 +1,7 @@
 # 👋 Hello There
 Hi, I'm Nicolas! I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**. Currently pursuing a degree in **Computer Science**, I'm dedicated to building innovative projects that blend AI with software development. 
 
-I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technology to solve real-world problems. My expertise spans from **backend and fullstack development** to cutting-edge **AI solutions**. I'm a native **Portuguese** speaker with **intermediate English** proficiency.
+I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technology to solve real-world problems. My expertise spans from **backend and frontend development** to cutting-edge **AI solutions**. I'm a native **Portuguese** speaker with **intermediate English** proficiency.
 
 ---
 
@@ -13,7 +13,7 @@ I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technolog
 ![LangChain](https://img.shields.io/badge/langchain-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-### **Fullstack & Backend**
+### **Fullstack**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -21,8 +21,8 @@ I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technolog
 ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### **Databases & Cloud**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
