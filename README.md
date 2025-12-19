@@ -1,5 +1,5 @@
 # 👋 Hello There
-Hi, I'm Nicolas! I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**. Currently pursuing a degree in **Computer Science**, I'm dedicated to building innovative projects that blend AI with software development. 
+Hi, I'm Nicolas! I'm passionate about **Artificial Intelligence**, **Neural Networks**, and **Large Language Models (LLMs)**. I hold a degree in **Computer Science** and am dedicated to building innovative projects that blend AI with software development.
 
 I work at [@GrazziotinSA](https://github.com/GrazziotinSA), leveraging technology to solve real-world problems. My expertise spans from **backend and frontend development** to cutting-edge **AI solutions**. I'm a native **Portuguese** speaker with **intermediate English** proficiency.
 
